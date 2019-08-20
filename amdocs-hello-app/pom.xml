@@ -6,7 +6,7 @@
   <dependencies>
   	<dependency>
  	 	<groupId>junit</groupId>
-  		<artifactId>junit</artifactId>
+  		<artifactId>jun</artifactId>
   		<version>4.12</version>
 	</dependency>
  </dependencies>
